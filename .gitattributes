@@ -1,0 +1,6 @@
+*.sql linguist-detectable=true
+*.txt linguist-detectable=false
+*.sql linguist-language=PLSQL
+*.ipynb linguist-vendored
+*.html linguist-vendored
+*.py linguist-vendored
